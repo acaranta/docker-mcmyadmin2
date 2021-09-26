@@ -15,7 +15,7 @@ RUN \
  apt-get install -y \
 	git-core \
 	libgdiplus \
-	openjdk-8-jdk-headless \
+	openjdk-16-jdk-headless \
 	unzip \
 	zip && \
  echo "**** install mcmyadmin ****" && \
